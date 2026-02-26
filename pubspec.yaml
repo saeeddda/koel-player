@@ -75,6 +75,7 @@ dev_dependencies:
   rxdart: any
   flutter_cache_manager: any
   file: any
+  change_app_package_name: ^1.5.0
 flutter:
 
   # The following line ensures that the Material Icons font is

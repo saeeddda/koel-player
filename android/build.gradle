@@ -9,7 +9,7 @@ allprojects {
             if (project.hasProperty('android')) {
                 project.android {
                     if (namespace == null) {
-                        namespace 'phanan.koel.app'
+                        namespace 'ir.novadev.music.app'
                     }
                 }
             }

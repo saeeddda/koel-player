@@ -379,7 +379,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 2.2.5;
-				PRODUCT_BUNDLE_IDENTIFIER = dev.koel.koel;
+				PRODUCT_BUNDLE_IDENTIFIER = ir.novadev.music.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
@@ -524,7 +524,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 2.2.5;
-				PRODUCT_BUNDLE_IDENTIFIER = debug.dev.koel.koel;
+				PRODUCT_BUNDLE_IDENTIFIER = debug.ir.novadev.music.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
@@ -558,7 +558,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 2.2.5;
-				PRODUCT_BUNDLE_IDENTIFIER = dev.koel.koel;
+				PRODUCT_BUNDLE_IDENTIFIER = ir.novadev.music.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
